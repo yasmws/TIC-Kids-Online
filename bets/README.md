@@ -165,29 +165,6 @@ Classes A, B, C            | 0.92x - 1.05x [Não significantes, p > 0.25]
 
 ---
 
-## Como Executar o Projeto
-
-### Pré-requisitos
-* Python 3.10 ou superior
-* Bibliotecas: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`
-
-### Execução Local
-1. Clone ou acesse o diretório do projeto:
-   ```bash
-   cd "Aulas/Probabilidade e Estatistisca/Projeto Final"
-   ```
-2. Ative o ambiente virtual:
-   ```bash
-   source .venv/bin/activate
-   ```
-3. Abra o Jupyter Notebook:
-   ```bash
-   jupyter notebook projeto_apostas_digitais.ipynb
-   ```
-*O notebook já se encontra totalmente executado com todas as saídas de texto, tabelas formatadas e os 10 gráficos de alta resolução salvos nas células.*
-
----
-
 ## Referências e Fontes dos Dados
 * **Cetic.br / NIC.br:** Pesquisa sobre o Uso das Tecnologias de Informação e Comunicação nos Domicílios Brasileiros — *TIC Domicílios 2025* (Microdados de Indivíduos).
 * **ABEP:** Critério de Classificação Econômica Brasil (Critério Brasil 2015).
